@@ -4,6 +4,8 @@
 
 Welcome to the enhanced version of the Diffutoon Jupyter notebook! Originally created by [camenduru](https://github.com/camenduru).
 
+Original repo: https://github.com/modelscope/DiffSynth-Studio/tree/main/examples/Diffutoon
+
 I have taken the initiative to further develop this notebook to provide a more user-friendly experience.
 
 In this version, you'll find an intuitive interface equipped with user-friendly forms that allow you to configure and control various settings without the need to interact directly with the underlying code. My goal is to make it as easy as possible for users of all skill levels to harness the power of the Diffutoon pipeline, enhancing accessibility and simplifying the process of generating stunning visual content.
