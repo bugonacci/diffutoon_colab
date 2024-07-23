@@ -6,17 +6,6 @@ Welcome to the enhanced version of the Diffutoon Jupyter notebook! Originally cr
 
 In this version, you'll find an intuitive interface equipped with user-friendly forms that allow you to configure and control various settings without the need to interact directly with the underlying code. My goal is to make it as easy as possible for users of all skill levels to harness the power of the Diffutoon pipeline, enhancing accessibility and simplifying the process of generating stunning visual content.
 
-# My Project
-
-This is a description of my project.
-
-## Watch the Video
-
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://github.com/bugonacci/diffutoon_colab/blob/main/Difftoon_colab_v1.mp4)
-
-More details about the project...
-
-
 ## Features
 
 - **User-Friendly Forms**: Easily configure and run complex pipelines with a simple, intuitive UI.
