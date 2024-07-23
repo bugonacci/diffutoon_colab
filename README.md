@@ -25,6 +25,7 @@ Connect with Me
 Original Notebook
 
 For reference or to see the original version, visit the Original Diffutoon Notebook. https://colab.research.google.com/github/camenduru/Diffutoon-jupyter/blob/main/Diffutoon_jupyter.ipynb
+
 Enjoy Your Exploration and Creation
 
 Thank you for visiting and using the Enhanced Diffutoon Notebook. Enjoy exploring and creating stunning visual content with ease!
